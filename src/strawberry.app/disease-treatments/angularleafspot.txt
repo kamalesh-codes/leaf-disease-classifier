@@ -1,0 +1,159 @@
+# Treating Angular Leaf Spot Disease
+Angular leaf spot is a bacterial disease caused by *Xanthomonas fragariae* that affects strawberry plants. Unlike fungal diseases, bacterial infections require different management strategies and can be more challenging to control.
+## Identifying Angular Leaf Spot
+Confirm the disease by looking for these distinctive symptoms:
+- Small, angular or irregular water-soaked spots on the undersides of leaves
+- Spots appear translucent when held up to light
+- Lesions are limited by leaf veins, giving them an angular appearance
+- Spots turn reddish-brown to dark brown as they age
+- White bacterial ooze may appear on leaf undersides in humid conditions
+- Infected areas may dry out and fall through, leaving holes
+- Calyxes (the green leafy part of the fruit) may show dark brown to black lesions
+- Disease spreads rapidly during wet, cool weather
+## Treatment Steps
+### Immediate Actions
+**Remove infected material immediately**: Cut off all infected leaves, flowers, and fruit as soon as symptoms appear. Bacterial diseases spread rapidly, so prompt removal is critical.
+**Dispose properly**: Place all infected plant material in sealed plastic bags and discard in the trash. Do NOT compost infected material, as bacteria can survive and spread.
+**Isolate infected plants**: If only a few plants show symptoms, consider removing them entirely to prevent spread to healthy plants.
+**Sanitize tools rigorously**: After each cut, disinfect pruning tools with 70% alcohol, 10% bleach solution, or commercial disinfectants. This is crucial as bacteria spread easily on contaminated tools.
+### Bacterial Control Measures
+**Copper-based bactericides**: Apply copper compounds, which are the primary treatment option for bacterial diseases:
+- Copper hydroxide
+- Copper sulfate
+- Fixed copper products
+- Apply according to label directions, typically every 5-7 days during disease-favorable conditions
+**Streptomycin applications** (where permitted): Some regions allow agricultural streptomycin for bacterial disease control:
+- Check local regulations as availability varies
+- Apply during bloom or at first disease symptoms
+- Rotate with copper to prevent bacterial resistance
+**Timing is critical**: Bactericides work best as preventive measures or at the very first sign of disease. Once infection is established, control becomes much more difficult.
+**Application guidelines**: 
+- Spray thoroughly to cover all leaf surfaces, especially undersides
+- Apply before rain events if possible
+- Reapply after heavy rains that wash off protective barriers
+### Cultural Management Practices
+**Water management**: This is absolutely critical for bacterial disease control:
+- Use drip irrigation or soaker hoses exclusively
+- NEVER use overhead sprinklers, as water splash spreads bacteria
+- Water early in the day to allow any moisture to dry quickly
+- Avoid working with plants when they're wet
+**Improve air circulation**:
+- Space plants adequately (12-18 inches apart)
+- Remove excessive runners
+- Thin crowded plantings
+- Keep surrounding areas weed-free
+- Prune to open up the plant canopy
+**Reduce leaf wetness**:
+- Avoid activities that create wounds when plants are wet
+- Don't harvest, prune, or work in beds during rain or when dew is present
+- Minimize leaf-to-leaf contact
+**Mulching**: Apply clean plastic mulch or straw to prevent soil and water splash from reaching lower leaves.
+**Avoid spreading bacteria**:
+- Don't touch healthy plants after handling infected ones
+- Wash hands thoroughly between plants
+- Change gloves if working extensively with infected plants
+- Avoid moving through beds when foliage is wet
+### Soil and Site Management
+**Improve drainage**: Ensure excellent soil drainage as waterlogged conditions favor bacterial growth:
+- Amend heavy soils with organic matter
+- Consider raised beds in poorly draining areas
+- Grade beds to prevent water pooling
+**Adjust soil pH**: Maintain slightly acidic soil (pH 5.5-6.5), as this is optimal for strawberry health and may help suppress some bacterial activity.
+**Avoid excess nitrogen**: High nitrogen promotes lush, succulent growth that is more susceptible to infection. Use balanced fertilizers and follow soil test recommendations.
+## Long-Term Prevention
+**Plant disease-free stock**: This is the single most important prevention measure:
+- Purchase only certified disease-free plants from reputable nurseries
+- Inspect plants carefully before purchase
+- Quarantine new plants for 2-3 weeks before introducing to established beds
+**Choose resistant varieties**: While complete resistance is rare, some varieties show better tolerance:
+- 'Chandler'
+- 'Sweet Charlie'
+- 'Camarosa'
+- Consult local extension services for regionally adapted resistant varieties
+**Crop rotation**: Practice strict crop rotation:
+- Don't plant strawberries where they or other susceptible crops grew in the past 3-4 years
+- Avoid planting near infected beds
+**Bed renovation**: 
+- Replace plantings every 2-3 years rather than maintaining the same bed indefinitely
+- Completely remove old plants; don't allow volunteers
+- Allow soil to rest or plant non-susceptible crops between strawberry plantings
+**Runner management**: Be extremely cautious with runners:
+- Never propagate from infected plants
+- Only take runners from certified disease-free mother plants
+- Inspect runners carefully before planting
+**Site selection**: Choose locations with:
+- Full sun exposure (6-8 hours daily)
+- Excellent air drainage and circulation
+- No history of angular leaf spot
+- Good water drainage
+## Seasonal Management Calendar
+### Early Spring
+- Inspect plants emerging from winter dormancy
+- Remove any suspicious leaves immediately
+- Begin preventive copper applications before disease appears
+- Clean up all old debris
+### Late Spring/Early Summer
+- Monitor closely during flowering and fruit set
+- Increase spray frequency during wet weather
+- Remove infected fruit immediately
+- Maintain strict sanitation practices
+### Summer
+- Continue monitoring and removal of symptomatic tissue
+- Thin plants to improve air circulation
+- Manage runners to prevent overcrowding
+- Water only at plant base
+### Fall
+- After harvest, renovate beds by removing old foliage
+- Apply copper spray before winter
+- Remove all plant debris from the area
+- Consider replacing severely infected plantings
+### Winter Preparation
+- In mild climates, continue monitoring
+- Remove any diseased tissue that appears
+- Plan crop rotation for spring
+## Organic Management Options
+For organic growers:
+- Copper-based products (certified for organic use)
+- Strict cultural controls and sanitation
+- Biological controls (limited effectiveness but may include beneficial bacteria)
+- Focus heavily on prevention through resistant varieties and disease-free planting stock
+## When to Remove Plants Entirely
+Consider complete removal and replanting if:
+- More than 30% of plants show symptoms
+- Disease returns rapidly despite treatment
+- Infection is in first-year plants (indicates contaminated planting stock)
+- Disease appears year after year in the same location
+## Critical Differences from Fungal Diseases
+**Important**: Angular leaf spot requires different treatment than fungal leaf diseases:
+- Fungicides (designed for fungi) are ineffective against bacteria
+- Bacteria spread more rapidly in water
+- Bacterial diseases are harder to control once established
+- Prevention is even more critical than with fungal diseases
+- Tool sanitation is absolutely essential
+## Monitoring and Record Keeping
+Track the following information:
+- Date symptoms first appear
+- Weather conditions (temperature, rainfall, humidity)
+- Treatment dates and products used
+- Percentage of plants affected
+- Effectiveness of control measures
+- Source of planting stock
+## Regional Considerations
+Angular leaf spot severity varies by region:
+- More problematic in areas with cool, wet springs
+- Severe in coastal regions with high humidity
+- Less common in hot, dry climates
+- Contact local cooperative extension for region-specific advice
+## Preventive Spray Schedule
+**High-risk periods** (cool and wet weather):
+- Apply copper bactericide every 5-7 days
+- Begin before symptoms appear
+- Continue through bloom and fruit development
+**Moderate-risk periods**:
+- Apply every 10-14 days
+- Monitor closely and increase frequency if needed
+**Low-risk periods** (hot and dry):
+- Monitor without routine spraying
+- Apply only if symptoms appear or rain is forecast
+---
+**Critical Reminder**: Angular leaf spot is much harder to control than fungal diseases. Success depends on early detection, aggressive sanitation, and consistent preventive measures. If the disease becomes established in your planting, complete removal and starting fresh with certified disease-free plants in a new location may be the most practical long-term solution.

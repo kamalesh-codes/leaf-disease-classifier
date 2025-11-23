@@ -1,0 +1,231 @@
+# Treating Plants with Calcium Deficiency
+Calcium deficiency in strawberry plants affects both foliage and fruit quality. While less common than other nutrient deficiencies, calcium problems can significantly impact plant health and fruit marketability. Proper diagnosis and treatment are essential for maintaining productive strawberry plantings.
+## Identifying Calcium Deficiency
+Confirm calcium deficiency by looking for these characteristic symptoms:
+**Leaf Symptoms:**
+- Young leaves are most affected (calcium is immobile in plants)
+- Leaf tips and margins turn brown and scorched
+- New leaves may be distorted, cupped, or crinkled
+- Leaves appear small and stunted
+- Growing points may die back in severe cases
+- Chlorosis (yellowing) between leaf veins on young foliage
+**Fruit Symptoms:**
+- Increased susceptibility to fruit rot diseases
+- Poor fruit firmness and shelf life
+- Fruit tip burn or browning
+- Internal fruit breakdown
+- Reduced fruit size and quality
+**Root Symptoms:**
+- Stunted or poorly developed root systems
+- Brown, damaged root tips
+- Reduced ability to absorb water and nutrients
+**Plant Growth:**
+- Overall stunted growth
+- Weakened plant structure
+- Reduced runner production
+## Causes of Calcium Deficiency
+Understanding the cause helps determine the best treatment:
+- **Low soil calcium levels**: Rare but occurs in heavily leached acidic soils
+- **Soil pH imbalance**: Very acidic soils (pH below 5.5) reduce calcium availability
+- **Drought stress**: Calcium moves through plants with water; insufficient water limits calcium transport
+- **Excessive competing nutrients**: High levels of potassium, magnesium, or ammonium can interfere with calcium uptake
+- **Poor soil structure**: Compacted or poorly aerated soils limit root growth and calcium absorption
+- **Salt accumulation**: High salinity reduces calcium uptake
+- **Rapid growth periods**: Fast-growing tissue may outpace calcium supply
+## Treatment Steps
+### Immediate Corrective Actions
+**Foliar calcium sprays**: Provide quick relief for acute deficiency:
+- Calcium chloride solution (0.5-1% concentration)
+- Calcium nitrate solution (1-2 tablespoons per gallon of water)
+- Commercial calcium foliar fertilizers
+- Spray in early morning or late evening to avoid leaf burn
+- Apply to both upper and lower leaf surfaces
+- Repeat every 7-10 days until symptoms improve
+**Improve irrigation**: Ensure consistent soil moisture:
+- Water regularly to maintain even soil moisture
+- Avoid drought stress, which limits calcium movement
+- Don't allow soil to dry out completely between waterings
+- Use drip irrigation for consistent moisture delivery
+### Soil-Based Treatments
+**Soil testing**: Before adding amendments, test soil to determine:
+- Current calcium levels
+- Soil pH
+- Levels of competing nutrients (K, Mg)
+- Cation exchange capacity (CEC)
+**Lime application** (if soil pH is low):
+- **Calcitic limestone** (calcium carbonate): For calcium deficiency with low pH
+  - Apply 2-4 pounds per 100 square feet for sandy soils
+  - Apply 5-8 pounds per 100 square feet for clay soils
+  - Work into soil several months before planting
+- **Dolomitic limestone** (calcium-magnesium carbonate): Only if both calcium and magnesium are deficient
+- Apply in fall for spring planting to allow time for pH adjustment
+**Gypsum application** (calcium sulfate): For calcium deficiency when pH is adequate (above 6.0):
+- Provides calcium without raising pH
+- Apply 2-5 pounds per 100 square feet
+- Can be applied during the growing season
+- Works faster than limestone
+- Water in thoroughly after application
+**Calcium nitrate**: Provides both calcium and nitrogen:
+- Use as a side-dressing during active growth
+- Apply 1-2 tablespoons per plant
+- Water in immediately after application
+- Good for quick calcium boost during growing season
+**Organic calcium sources**:
+- **Bone meal**: Slow-release calcium and phosphorus
+- **Oyster shell flour**: Slow-release calcium carbonate
+- **Eggshell powder**: Ground finely, slow-release calcium
+- **Wood ash**: Provides calcium but also raises pH significantly (use cautiously)
+### Water Management
+**Consistent moisture**: Critical for calcium uptake and transport:
+- Maintain soil moisture at 60-80% of field capacity
+- Use mulch to conserve soil moisture
+- Install drip irrigation or soaker hoses for even water distribution
+- Water deeply and regularly rather than frequent shallow watering
+- Avoid letting plants wilt between waterings
+**Irrigation scheduling**:
+- Water 1-2 inches per week depending on weather
+- Increase frequency during hot, dry periods
+- Monitor soil moisture with finger test or moisture meter
+### Soil Management Practices
+**Improve soil structure**:
+- Add organic matter (compost, well-rotted manure) to improve water retention
+- Avoid soil compaction by staying off beds when soil is wet
+- Use raised beds in heavy clay soils
+- Incorporate 2-4 inches of compost before planting
+**Maintain optimal pH**: Strawberries prefer pH 5.5-6.5:
+- Test pH annually
+- Adjust gradually using lime if too acidic
+- Use sulfur if pH is too high (above 7.0)
+**Balance competing nutrients**:
+- Avoid excessive potassium fertilization
+- Use balanced fertilizers appropriate for strawberries
+- Follow soil test recommendations for nutrient applications
+**Improve drainage**: Excess water reduces root function and calcium uptake:
+- Install drainage tiles in poorly draining areas
+- Use raised beds
+- Add organic matter to improve soil structure
+### Fertilization Program
+**Pre-plant preparation**:
+- Incorporate lime or gypsum 2-3 months before planting if needed
+- Add compost or aged manure (2-3 inches worked into top 6 inches of soil)
+- Ensure adequate but not excessive phosphorus and potassium
+**During growing season**:
+- Use complete fertilizers with micronutrients
+- Apply calcium-containing fertilizers (calcium nitrate) monthly
+- Avoid excessive nitrogen from ammonium sources
+- Split applications to provide steady nutrient supply
+**Recommended fertilizer schedule**:
+- **Spring**: Apply balanced fertilizer (10-10-10) at 1 pound per 100 square feet
+- **After renovation**: Side-dress with calcium nitrate (1-2 tablespoons per plant)
+- **Fall**: Light application of balanced fertilizer if needed
+## Long-Term Prevention
+**Site selection**: Choose sites with:
+- Well-draining soils
+- Good soil structure and aeration
+- Access to consistent water supply
+- Adequate soil calcium levels (test before planting)
+**Soil preparation**: Before establishing new beds:
+- Test soil and amend based on results
+- Incorporate lime if pH is below 5.5
+- Add gypsum if calcium is low but pH is adequate
+- Work in 2-4 inches of compost
+- Allow amendments to equilibrate for 2-3 months before planting
+**Mulching**: Apply 2-3 inches of organic mulch:
+- Helps maintain consistent soil moisture
+- Reduces calcium transport issues from moisture fluctuation
+- Use straw, pine needles, or shredded leaves
+- Keep mulch away from plant crowns
+**Variety selection**: Some varieties may be more efficient at calcium uptake:
+- Choose regionally adapted varieties
+- Consult local extension services for recommendations
+- Plant disease-resistant varieties to reduce stress
+**Regular monitoring**: Prevent deficiency through vigilance:
+- Conduct annual soil tests
+- Monitor new growth for early symptoms
+- Maintain consistent care practices
+- Keep records of amendments and results
+## Organic Management Approaches
+For organic growers, focus on:
+- **Calcitic limestone** for pH adjustment and calcium
+- **Gypsum** for calcium without pH change
+- **Bone meal** as slow-release calcium source
+- **Compost** to improve soil structure and nutrient retention
+- **Compost tea** foliar sprays (may provide some calcium)
+- **Eggshell tea**: Steep crushed eggshells in water for foliar spray
+- **Fish bone meal**: Provides calcium and other nutrients
+- **Rock phosphate**: Contains some calcium along with phosphorus
+## Foliar Spray Recipes
+**Calcium chloride spray**:
+- Mix 1-2 teaspoons calcium chloride per gallon of water
+- Add a few drops of mild dish soap as a spreader-sticker
+- Spray in early morning or evening
+- Apply every 7-10 days during deficiency
+**Calcium nitrate spray**:
+- Mix 1 tablespoon calcium nitrate per gallon of water
+- Avoid spraying in hot sun
+- Apply to point of runoff on both leaf surfaces
+**Homemade calcium solution** (organic):
+- Soak crushed eggshells in vinegar for 2 weeks
+- Dilute 1:10 with water
+- Strain and spray on leaves
+- Less concentrated but provides some calcium
+## Troubleshooting
+**If symptoms persist after treatment**:
+- Retest soil to verify calcium levels improved
+- Check for other limiting factors (pH, drainage, competing nutrients)
+- Evaluate irrigation practices
+- Consider root diseases that may limit nutrient uptake
+- Check for salt buildup in soil
+**If symptoms worsen**:
+- Verify correct diagnosis (symptoms may overlap with other issues)
+- Test for toxic levels of other nutrients
+- Check for root damage or disease
+- Evaluate water quality (high sodium can cause similar symptoms)
+## Calcium Deficiency vs. Similar Problems
+**Don't confuse with**:
+- **Potassium deficiency**: Affects older leaves first, browning of leaf margins
+- **Boron deficiency**: Similar growing point damage but with different leaf symptoms
+- **Salt damage**: Leaf margin burn but typically on older leaves
+- **Drought stress**: General wilting and browning
+- **Fungal diseases**: May cause tip burn but with different patterns
+## Application Rates Summary
+**Limestone** (to raise pH):
+- Sandy soil: 2-4 lbs per 100 sq ft
+- Loamy soil: 4-6 lbs per 100 sq ft
+- Clay soil: 5-8 lbs per 100 sq ft
+**Gypsum** (pH neutral):
+- All soil types: 2-5 lbs per 100 sq ft
+**Calcium nitrate**:
+- Soil application: 1-2 tablespoons per plant, monthly
+- Foliar spray: 1 tablespoon per gallon water
+**Foliar calcium chloride**:
+- 1-2 teaspoons per gallon water, weekly until recovery
+## Monitoring Response to Treatment
+Track these indicators to assess treatment effectiveness:
+- New leaf growth appears normal and healthy
+- Leaf tip and margin browning decreases
+- Plant vigor improves
+- Fruit quality and firmness increase
+- Runner production normalizes
+- Root growth appears healthy
+**Timeline for improvement**:
+- Foliar sprays: 1-2 weeks for visible improvement
+- Soil amendments: 4-8 weeks for full effect
+- Complete recovery: 2-3 months with consistent treatment
+## Special Considerations
+**In container-grown strawberries**:
+- Use potting mixes with adequate calcium
+- Water more frequently but ensure drainage
+- Apply dilute calcium fertilizer more often
+- Monitor more closely as problems develop faster
+**During fruit development**:
+- Increase attention to consistent watering
+- Consider supplemental calcium sprays
+- Ensure adequate but not excessive nitrogen
+**In high-tunnel or greenhouse production**:
+- Monitor irrigation closely (no natural rainfall)
+- Maintain proper humidity levels
+- Ensure adequate ventilation
+- May need more frequent calcium applications
+---
+**Key Takeaway**: Calcium deficiency in strawberries is often more related to water management and nutrient imbalances than actual soil calcium shortage. Focus on maintaining consistent soil moisture, proper pH, and balanced fertility for best results. Prevention through good soil preparation and regular monitoring is far easier than correcting severe deficiency.
